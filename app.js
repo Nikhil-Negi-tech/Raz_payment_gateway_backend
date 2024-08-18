@@ -3,7 +3,7 @@ const express = require('express');
 const cors = require('cors');
 const router = require('./routes/payments_routes');	
 const app = express();
-const PORT = 4444;
+const PORT = 7777;
 
 // app.set('view engine', 'hbs');
 // app.use(express.urlencoded({ extended: true }));
